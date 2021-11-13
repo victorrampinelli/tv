@@ -1,5 +1,15 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#45.134.141.161 -> x00.so
+#45.134.141.167 -> x00.so
+#45.134.141.166 -> x00.so
+#45.134.141.164 -> x00.so
+#45.134.141.165 -> x00.so
+#45.134.141.162 -> x00.so
+#45.134.141.163 -> x00.so
+#45.134.141.168 -> x00.so
+
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal Principal] HD
 http://x00.so:80/Willian2727/9a9AAa/128349.ts
 #EXTINF:-1 tvg-logo="http://ccdn.so:80/images/88a62640863d0938a39ab3a2b67b7975.png" group-title="Canais | A Fazenda",A Fazenda 13 [Sinal 1] HD
